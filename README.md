@@ -6,11 +6,11 @@
 
 1. Clone this repo into your cloud shell editor with `git clone <this repo>`
 1. Create local virtual environment `python3 -m venv venv`
-1. Install dependencies `pip install -r requirements.txt`
 
 ### Before starting work
 
 1. Activate venv `source venv/bin/activate`
+2. Install dependencies `pip install -r requirements.txt`
 
 ### Running the app
 
